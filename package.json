@@ -1,0 +1,11 @@
+{
+  "name": "javascript-2024",
+  "version": "1.0.0",
+  "description": "This is only for learning javascript DSA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sangam",
+  "license": "ISC"
+}
