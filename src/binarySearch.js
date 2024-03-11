@@ -17,6 +17,9 @@
 // };
 
 // const array = [1, 2, 3, 4, 5, 6, 7, 8, 9];
+// console.log(binarySearch(array, 7));
+// console.log(binarySearch(array, 4));
+// console.log(binarySearch(array, 10));
 
 // Big O => O(logn)
 
@@ -41,8 +44,8 @@ const search = (array, key, leftIndex, rightIndex) => {
 
 const array = [1, 2, 3, 4, 5, 6, 7, 8, 9];
 
-console.log(binarySearch(array, 7));
-console.log(binarySearch(array, 4));
-console.log(binarySearch(array, 10));
+console.log(binarySearchRecursive(array, 7));
+console.log(binarySearchRecursive(array, 4));
+console.log(binarySearchRecursive(array, 10));
 
 // Big O => O(logn)
